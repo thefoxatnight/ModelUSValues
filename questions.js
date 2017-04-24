@@ -152,7 +152,7 @@ questions = [
       }
    },
    {
-      "question": "The culture of dependency on government traps people in the welfare cycle.",
+      "question": "The culture of dependency on government has created an entire class of useless people.",
       "effect": {
          "econ": -10,
          "dipl": 0,
