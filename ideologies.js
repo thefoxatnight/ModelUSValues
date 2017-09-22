@@ -62,4 +62,13 @@ ideologies = [
             "scty": 50
         }
     }
+    {
+        "name": "Silver Legion",
+        "stats": {
+            "econ": 60,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 80
+        }
+    }
 ];
