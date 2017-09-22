@@ -2,72 +2,72 @@ ideologies = [
     {
         "name": "Socialists",
         "stats": {
-            "econ": 100,
-            "dipl": 40,
-            "govt": 20,
-            "scty": 70
+            "econ": 75,
+            "dipl": 45,
+            "govt": 30,
+            "scty": 65
         }
     },
     {
         "name": "Distributists",
         "stats": {
-            "econ": 60,
-            "dipl": 50,
-            "govt": 50,
+            "econ": 70,
+            "dipl": 60,
+            "govt": 65,
             "scty": 20
         }
     },
     {
         "name": "Green-Left",
         "stats": {
-            "econ": 60,
-            "dipl": 60,
-            "govt": 60,
+            "econ": 85,
+            "dipl": 65,
+            "govt": 20,
             "scty": 80
         }
     },
     {
         "name": "Democrats",
         "stats": {
-            "econ": 60,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
+            "econ": 62,
+            "dipl": 65,
+            "govt": 35,
+            "scty": 70
         }
     },
     {
         "name": "Liberal",
         "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
+            "econ": 55,
+            "dipl": 80,
+            "govt": 35,
+            "scty": 60
         }
     },
     {
         "name": "Republican",
         "stats": {
-            "econ": 0,
-            "dipl": 40,
-            "govt": 50,
-            "scty": 50
+            "econ": 30,
+            "dipl": 25,
+            "govt": 55,
+            "scty": 40
         }
     },
     {
         "name": "Libertarian",
         "stats": {
-            "econ": 0,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 50
+            "econ": 15,
+            "dipl": 70,
+            "govt": 80,
+            "scty": 60
         }
     }
     {
         "name": "Silver Legion",
         "stats": {
-            "econ": 60,
-            "dipl": 80,
-            "govt": 80,
+            "econ": 55,
+            "dipl": 100,
+            "govt": 95,
             "scty": 80
         }
     }
